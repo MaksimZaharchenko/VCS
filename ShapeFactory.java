@@ -81,7 +81,7 @@ public class ShapeFactory {
     }
 
     
-    /** Метод описывает процес создания звезды */
+    /** Метод описывает процес виведения рисунка на экран */
     
     private static Shape createStar(int arms, Point center, double rOuter, double rInner) {
         double angle = 3.141592653589793 / (double)arms;
