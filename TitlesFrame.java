@@ -26,7 +26,7 @@ extends JFrame {
     }
     
     /**
-    * Создание класа TitlesFrame
+    * Создание класа TitlesFrame 
     */
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable(){
