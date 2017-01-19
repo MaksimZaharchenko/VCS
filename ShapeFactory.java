@@ -80,7 +80,7 @@ public class ShapeFactory {
         }
     }
 
-    
+     
     /** Метод описывает процес виведения рисунка на экран */
     
     private static Shape createStar(int arms, Point center, double rOuter, double rInner) {
